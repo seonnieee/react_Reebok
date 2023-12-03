@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_Reebok/static/css/main.c118e7a6.css",
-    "main.js": "/react_Reebok/static/js/main.ccd9f2de.js",
+    "main.js": "/react_Reebok/static/js/main.4a31396f.js",
     "static/js/787.1892e0a5.chunk.js": "/react_Reebok/static/js/787.1892e0a5.chunk.js",
     "index.html": "/react_Reebok/index.html",
     "main.c118e7a6.css.map": "/react_Reebok/static/css/main.c118e7a6.css.map",
-    "main.ccd9f2de.js.map": "/react_Reebok/static/js/main.ccd9f2de.js.map",
+    "main.4a31396f.js.map": "/react_Reebok/static/js/main.4a31396f.js.map",
     "787.1892e0a5.chunk.js.map": "/react_Reebok/static/js/787.1892e0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c118e7a6.css",
-    "static/js/main.ccd9f2de.js"
+    "static/js/main.4a31396f.js"
   ]
 }
